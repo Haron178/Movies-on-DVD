@@ -6,7 +6,7 @@
 * Для доступа к БД испульзуется Entity Framework
 ## Управление:
 ### Схема БД:
-![Image alt] (https://github.com/Haron178/Movies-on-DVD/blob/master/appsettings.json)
+![Схема-БД](https://github.com/Haron178/Movies-on-DVD/assets/136243354/8a559db5-124d-4166-832b-8e8a79e4f97b)
 ### CountryController предостваляет Http запросы: 
 * получить все страны из БД (Get); 
 * получить страну по ID (Get); 
